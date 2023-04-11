@@ -1,0 +1,15 @@
+{
+  "name": "basic-node-server",
+  "version": "1.0.0",
+  "description": "This is me practising basic node server",
+  "main": "index.js",
+  "repository": "git@github.com:ejeba72/basic-node-server.git",
+  "author": "Emmanuel Eni <eejeba@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
